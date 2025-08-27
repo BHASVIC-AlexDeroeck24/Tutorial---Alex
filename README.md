@@ -18,6 +18,6 @@
 
 <h3>'Space Shooter Game' - Notes:</h3>
 <hr>
-<b>Learnt:</b> setLocation, setRotation, Random Number, Subclasses, Constructors.
+<b>Learnt:</b> setLocation, setRotation, Random Number, Subclasses, Constructors, Firing Projectiles, Removing Objects, Intersecting objects, Null, Counter, Scorer, Healthbar, Bosses.
 <br><br><br>
 
