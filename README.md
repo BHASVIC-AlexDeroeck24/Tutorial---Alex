@@ -15,3 +15,9 @@
 <hr>
 <b>Learnt:</b> Changing Images, Using Parameters, Detecting Mouse CLicks, Detecting Mouse Location.
 <br><br><br>
+
+<h3>'Space Shooter Game' - Notes:</h3>
+<hr>
+<b>Learnt:</b> setLocation, setRotation, Random Number, Subclasses, Constructors.
+<br><br><br>
+
