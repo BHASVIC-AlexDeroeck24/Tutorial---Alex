@@ -21,3 +21,7 @@
 <b>Learnt:</b> setLocation, setRotation, Random Number, Subclasses, Constructors, Firing Projectiles, Removing Objects, Intersecting objects, Null, Counter, Scorer, Healthbar, Bosses.
 <br><br><br>
 
+<h3>'Point and Shoot Game' - Notes:</h3>
+<hr>
+<b>Learnt:</b> Point in direction of mouse, Click and Shoot.
+<br><br><br>
