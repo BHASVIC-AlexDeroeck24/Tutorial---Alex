@@ -23,5 +23,5 @@
 
 <h3>'Point and Shoot Game' - Notes:</h3>
 <hr>
-<b>Learnt:</b> Point in direction of mouse, Click and Shoot.
+<b>Learnt:</b> Point in direction of mouse, Click and Shoot. General use of the Mouse in Greenfoot programs.
 <br><br><br>
